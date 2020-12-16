@@ -3,4 +3,9 @@ Lista
 - tennis
 - jean
 - blusa
-- chaqueta
+
+picnic
+----------
+- jugo
+- sandwich
+- galletas
